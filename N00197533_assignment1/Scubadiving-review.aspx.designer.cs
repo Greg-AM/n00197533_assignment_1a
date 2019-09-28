@@ -22,102 +22,111 @@ namespace N00197533_assignment1 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// diverfirstname control.
+        /// diver_first_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox diverfirstname;
+        protected global::System.Web.UI.WebControls.TextBox diver_first_name;
         
         /// <summary>
-        /// diverlastname control.
+        /// diver_last_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox diverlastname;
+        protected global::System.Web.UI.WebControls.TextBox diver_last_name;
         
         /// <summary>
-        /// dateofdive control.
+        /// diver_email control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox dateofdive;
+        protected global::System.Web.UI.WebControls.TextBox diver_email;
         
         /// <summary>
-        /// scuba_instructor control.
+        /// scuba_instructor_select control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBoxList scuba_instructor;
+        protected global::System.Web.UI.WebControls.CheckBoxList scuba_instructor_select;
         
         /// <summary>
-        /// selectgroup1 control.
+        /// oxygen_apparatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList selectgroup1;
+        protected global::System.Web.UI.WebControls.RadioButtonList oxygen_apparatus;
         
         /// <summary>
-        /// selectgroup2 control.
+        /// diving_equipment control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList selectgroup2;
+        protected global::System.Web.UI.WebControls.RadioButtonList diving_equipment;
         
         /// <summary>
-        /// selectgroup3 control.
+        /// underwater_gestures control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList selectgroup3;
+        protected global::System.Web.UI.WebControls.RadioButtonList underwater_gestures;
         
         /// <summary>
-        /// selectgroup4 control.
+        /// length_of_dive control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList selectgroup4;
+        protected global::System.Web.UI.WebControls.TextBox length_of_dive;
         
         /// <summary>
-        /// userdropdownselect1 control.
+        /// dive_conditions control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList userdropdownselect1;
+        protected global::System.Web.UI.WebControls.DropDownList dive_conditions;
         
         /// <summary>
-        /// userdropdownselect2 control.
+        /// how_did_you_hear_about_us control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList userdropdownselect2;
+        protected global::System.Web.UI.WebControls.DropDownList how_did_you_hear_about_us;
         
         /// <summary>
-        /// selectgroup5 control.
+        /// would_you_recommend control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList selectgroup5;
+        protected global::System.Web.UI.WebControls.RadioButtonList would_you_recommend;
+        
+        /// <summary>
+        /// scuba_reviewsummary control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl scuba_reviewsummary;
     }
 }
